@@ -5,4 +5,4 @@ Chapters covered until now:
 
 Chapter 2 - Numpy
 
-Chapter 3 - Pandas (Soon)
+Chapter 3 - Pandas (On going)
