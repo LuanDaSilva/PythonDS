@@ -5,4 +5,6 @@ Chapters covered until now:
 
 Chapter 2 - Numpy
 
-Chapter 3 - Pandas (On going)
+Chapter 3 - Pandas 
+
+Chapter 4 - Matplotlib
