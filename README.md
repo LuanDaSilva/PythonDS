@@ -7,4 +7,4 @@ Chapter 2 - Numpy
 
 Chapter 3 - Pandas 
 
-Chapter 4 - Matplotlib
+Chapter 4 - Matplotlib (On going)
